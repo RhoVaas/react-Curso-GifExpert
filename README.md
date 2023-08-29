@@ -1,4 +1,6 @@
-# React + Vite
+# GifExpertApp
+
+Esta es mi primera aplicación web que busca gifs y te los muestra así bien de panita :D
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
